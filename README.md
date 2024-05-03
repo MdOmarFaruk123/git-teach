@@ -1,0 +1,2 @@
+# git-teach
+git sikhteci
